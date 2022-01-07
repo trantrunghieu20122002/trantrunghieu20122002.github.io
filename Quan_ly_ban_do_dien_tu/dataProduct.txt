@@ -1,0 +1,162 @@
+15
+
+1
+Asus
+L01
+Laptop Asus Zenbook 14
+Windows 10
+Intel Core i5
+8GB
+Intel UHD Graphics
+Full HD 
+Led White
+22000000
+1
+Acer
+L02
+Laptop Acer Nitro 5
+Windows 11
+Intel Core i5
+8GB
+GTX 1080
+FullHD
+Led RGB
+20000000
+1
+Asus
+L03
+Laptop Asus ExpertBook 12
+Windows 10
+Intel Core i7
+16GB
+Intel HD Graphic 5500
+Full HD 
+Led Red
+18000000
+1
+Asus
+L04
+Laptop Asus ExpertBook 12
+Windows 10
+Intel Core i7
+16GB
+Intel HD Graphic 5500
+Full HD 
+Led Red
+18000000
+1
+Asus
+L05
+Laptop Asus ExpertBook 12
+Windows 10
+Intel Core i7
+16GB
+Intel HD Graphic 5500
+Full HD 
+Led Red
+18000000
+2
+Dell
+PC1
+PC for student
+Windows 10
+Intel Core i3
+4GB
+GTX 1060
+Full HD
+Led White
+10000000
+2
+Asus
+PC2
+PC Platinum Pro
+Windows 8
+Intel Core i5
+8GB
+GTX 1030
+Full HD
+Led White
+12000000
+2
+Dell
+PC3
+PC Ultra Mode
+Windows 10
+Intel Core i7
+16GB
+GTX 1060
+Full HD
+Led Red
+25000000
+2
+Acer
+PC4
+PC Gaming
+Windows 11
+Intel Core i7
+32GB
+RTX 2080
+Full HD
+Led White
+32000000
+2
+Asus
+PC5
+PC Pro Gaming
+Windows 11
+Intel Core i7
+16GB
+GTX 1080
+Full HD
+Led Blue
+28000000
+3
+Apple
+S01
+Iphone 13 Pro Max
+IOS 15
+Apple A15 Bionic 
+8GB
+4352 mAh
+12 MP
+32000000
+3
+Samsung
+S02
+Galaxy Z Fold 3
+Android 11
+Snapdragon 888 
+8GB
+4300 mAh
+12 MP
+48000000
+3
+Apple
+S03
+Iphone 13 Pro 
+IOS 15
+Apple A15 Bionic 
+8GB
+3952 mAh
+12 MP
+26000000
+3
+Xiaomi
+SP04
+Mi 11
+Android 11
+Snapdragon 888 
+8GB
+4500 mAh
+12 MP
+20000000
+3
+Oppo
+S05
+Oppo Reno 6
+Android 11
+Snapdragon 888 
+8GB
+4352 mAh
+32 MP
+20000000

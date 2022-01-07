@@ -1,0 +1,70 @@
+Khách hàng thứ 1 : 
+Mã khách hàng : 101
+Tên khách hàng : Nguyen Chi Bao
+Email khách hàng : chibao2452@gmail.com
+Địa chỉ khách hàng : 123 Tan Tao
+Số điện thoại khách hàng : 0906547841
+
+Khách hàng thứ 2 : 
+Mã khách hàng : 102
+Tên khách hàng : Le Van Dat
+Email khách hàng : datquancam69@gmail.com
+Địa chỉ khách hàng : 91 Ham Tu
+Số điện thoại khách hàng : 0752369874
+
+Khách hàng thứ 3 : 
+Mã khách hàng : 103
+Tên khách hàng : Nguyen Van A
+Email khách hàng : taolai@gmail.com
+Địa chỉ khách hàng : 45 Cau Giay
+Số điện thoại khách hàng : 0752148963
+
+Khách hàng thứ 4 : 
+Mã khách hàng : 104
+Tên khách hàng : Nguyen Thi Ha
+Email khách hàng : hanguyen@gmail.com
+Địa chỉ khách hàng : 89 Ha Noi
+Số điện thoại khách hàng : 0541236987
+
+Khách hàng thứ 5 : 
+Mã khách hàng : 105
+Tên khách hàng : Lai Quang Vinh
+Email khách hàng : Vinhlai89@gmai.com
+Địa chỉ khách hàng : 14 Ho Chi Minh
+Số điện thoại khách hàng : 0147852369
+
+Khách hàng thứ 6 : 
+Mã khách hàng : 106
+Tên khách hàng : Nguyen Thanh Nam
+Email khách hàng : Namvlogs67@gmail.com
+Địa chỉ khách hàng : 579 Nguyen Trai
+Số điện thoại khách hàng : 0402587963
+
+Khách hàng thứ 7 : 
+Mã khách hàng : 107
+Tên khách hàng : Do ngoc Loan
+Email khách hàng : loando69@gmail.com
+Địa chỉ khách hàng : 544 Tran Phu
+Số điện thoại khách hàng : 0103057896
+
+Khách hàng thứ 8 : 
+Mã khách hàng : 108
+Tên khách hàng : Nguyen Van Ngoc
+Email khách hàng : Ngocbuk56@gmail.com
+Địa chỉ khách hàng : 255 Binh Tan
+Số điện thoại khách hàng : 0909578412
+
+Khách hàng thứ 9 : 
+Mã khách hàng : 109
+Tên khách hàng : Dang Van Hop
+Email khách hàng : hopbut@gmail.com
+Địa chỉ khách hàng : 696 An Giang
+Số điện thoại khách hàng : 0874596321
+
+Khách hàng thứ 10 : 
+Mã khách hàng : 110
+Tên khách hàng : Que Ngoc Hai
+Email khách hàng : haihaml@gmail.com
+Địa chỉ khách hàng : 333 Da Nang
+Số điện thoại khách hàng : 0147853478
+

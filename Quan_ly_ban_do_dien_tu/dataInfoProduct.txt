@@ -1,0 +1,160 @@
+Sản Phẩm thứ 1 : 
+Tên hãng : Asus
+Tên sản phẩm : Laptop Asus Zenbook 14
+Mã ID : L01
+Hệ điều hành : Windows 10
+CPU : Intel Core i5
+Ram : 8GB
+VGA : Intel UHD Graphics
+Bàn phím : Led White
+Camera : Full HD 
+
+Sản Phẩm thứ 2 : 
+Tên hãng : Acer
+Tên sản phẩm : Laptop Acer Nitro 5
+Mã ID : L02
+Hệ điều hành : Windows 11
+CPU : Intel Core i5
+Ram : 8GB
+VGA : GTX 1080
+Bàn phím : Led RGB
+Camera : FullHD
+
+Sản Phẩm thứ 3 : 
+Tên hãng : Asus
+Tên sản phẩm : Laptop Asus ExpertBook 12
+Mã ID : L03
+Hệ điều hành : Windows 10
+CPU : Intel Core i7
+Ram : 16GB
+VGA : Intel HD Graphic 5500
+Bàn phím : Led Red
+Camera : Full HD 
+
+Sản Phẩm thứ 4 : 
+Tên hãng : Asus
+Tên sản phẩm : Laptop Asus ExpertBook 12
+Mã ID : L04
+Hệ điều hành : Windows 10
+CPU : Intel Core i7
+Ram : 16GB
+VGA : Intel HD Graphic 5500
+Bàn phím : Led Red
+Camera : Full HD 
+
+Sản Phẩm thứ 5 : 
+Tên hãng : Asus
+Tên sản phẩm : Laptop Asus ExpertBook 12
+Mã ID : L05
+Hệ điều hành : Windows 10
+CPU : Intel Core i7
+Ram : 16GB
+VGA : Intel HD Graphic 5500
+Bàn phím : Led Red
+Camera : Full HD 
+
+Sản Phẩm thứ 6 : 
+Tên hãng : Dell
+Tên sản phẩm : PC for student
+Mã ID : PC1
+Hệ điều hành : Windows 10
+CPU : Intel Core i3
+Ram : 4GB
+VGA : GTX 1060
+Bàn phím : Led White
+Case : Full HD
+
+Sản Phẩm thứ 7 : 
+Tên hãng : Asus
+Tên sản phẩm : PC Platinum Pro
+Mã ID : PC2
+Hệ điều hành : Windows 8
+CPU : Intel Core i5
+Ram : 8GB
+VGA : GTX 1030
+Bàn phím : Led White
+Case : Full HD
+
+Sản Phẩm thứ 8 : 
+Tên hãng : Dell
+Tên sản phẩm : PC Ultra Mode
+Mã ID : PC3
+Hệ điều hành : Windows 10
+CPU : Intel Core i7
+Ram : 16GB
+VGA : GTX 1060
+Bàn phím : Led Red
+Case : Full HD
+
+Sản Phẩm thứ 9 : 
+Tên hãng : Acer
+Tên sản phẩm : PC Gaming
+Mã ID : PC4
+Hệ điều hành : Windows 11
+CPU : Intel Core i7
+Ram : 32GB
+VGA : RTX 2080
+Bàn phím : Led White
+Case : Full HD
+
+Sản Phẩm thứ 10 : 
+Tên hãng : Asus
+Tên sản phẩm : PC Pro Gaming
+Mã ID : PC5
+Hệ điều hành : Windows 11
+CPU : Intel Core i7
+Ram : 16GB
+VGA : GTX 1080
+Bàn phím : Led Blue
+Case : Full HD
+
+Sản Phẩm thứ 11 : 
+Tên hãng : Apple
+Tên sản phẩm : Iphone 13 Pro Max
+Mã ID : S01
+Hệ điều hành : IOS 15
+CPU : Apple A15 Bionic 
+Ram : 8GB
+Pin : 4352 mAh
+Camera : 12 MP
+
+Sản Phẩm thứ 12 : 
+Tên hãng : Samsung
+Tên sản phẩm : Galaxy Z Fold 3
+Mã ID : S02
+Hệ điều hành : Android 11
+CPU : Snapdragon 888 
+Ram : 8GB
+Pin : 4300 mAh
+Camera : 12 MP
+
+Sản Phẩm thứ 13 : 
+Tên hãng : Apple
+Tên sản phẩm : Iphone 13 Pro 
+Mã ID : S03
+Hệ điều hành : IOS 15
+CPU : Apple A15 Bionic 
+Ram : 8GB
+Pin : 3952 mAh
+Camera : 12 MP
+
+Sản Phẩm thứ 14 : 
+Tên hãng : Xiaomi
+Tên sản phẩm : Mi 11
+Mã ID : SP04
+Hệ điều hành : Android 11
+CPU : Snapdragon 888 
+Ram : 8GB
+Pin : 4500 mAh
+Camera : 12 MP
+
+Sản Phẩm thứ 15 : 
+Tên hãng : Oppo
+Tên sản phẩm : Oppo Reno 6
+Mã ID : S05
+Hệ điều hành : Android 11
+CPU : Snapdragon 888 
+Ram : 8GB
+Pin : 4352 mAh
+Camera : 32 MP
+
